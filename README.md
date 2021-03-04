@@ -22,3 +22,4 @@ project artifacts. Instructions:
    * `project-website-url` contains the _url_ to your project website.
    * `project-website-code` cotnains the github url to your project
      website's code.
+5. Turn in the forked repository to Gradescope.
