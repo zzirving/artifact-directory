@@ -8,7 +8,7 @@ project artifacts. Instructions:
      *do not change the file names!*
 2. Replace the blank `report.pdf` with your final project report. This is the version that will be linked at [hdsishowcase.com](https://hdsishowcase.com). (Note that you will also have to upload your report separately to Gradescope for your mentor to grade it.)
 3. Edit `title-abstract.txt` and replace the sample title/abstract
-   with the title/abstract of your project. This is what will be linked at [hdsishowcase.com](https://hdsishowcase.com).
+   with the title/abstract of your project. This is what will be included at [hdsishowcase.com](https://hdsishowcase.com).
    * Be sure to leave the formatting of the file intact (with the
      `title:` and `abstract:` lines untouched).
    * If you are happy with the title that's currently at [hdsishowcase.com](https://hdsishowcase.com), feel free to put the same one.
