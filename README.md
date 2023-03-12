@@ -3,9 +3,9 @@
 This repository is a template for turning in links/locations to your
 project artifacts. Instructions:
 
-1. Fork this repository
+1. Fork this repository.
    * You will be changing the file contents in this repository, but
-     *do not change the file names!*.
+     *do not change the file names!*
 2. Replace the blank `report.pdf` with your final project report. This is the version that will be linked at [hdsishowcase.com](https://hdsishowcase.com). (Note that you will also have to upload your report separately to Gradescope for your mentor to grade it.)
 3. Edit `title-abstract.txt` and replace the sample title/abstract
    with the title/abstract of your project. This is what will be linked at [hdsishowcase.com](https://hdsishowcase.com).
