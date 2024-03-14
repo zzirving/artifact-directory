@@ -19,8 +19,6 @@ project artifacts. Instructions:
      `artifact-directory-template` repository (this will allow us to
      get the latest version of your report and title/abstract).
    * `project-repository` contains the GitHub URL to your project's code repository. This is the repository we will use to evaluate your code.
-   * `dockerhub-repository` contains the DockerHub username, DockerHub
-     repository name, and tag for reproducing your project. If you did not use Docker, you must still provide a DockerHub username and repository name; just use the [default data science image](https://hub.docker.com/r/ucsdets/datahub-base-notebook) created by UCSD ETS.
    * `project-website-url` contains the URL to your public-facing project website (likely ending in .github.io/<some project name>).
    * `project-website-code` contains the GitHub URL to your project
      website's source code (if it's the same as your code repository,
