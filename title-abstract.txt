@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+FLARE(Fault Logging and Assessment for Responsive EV repairs)
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The FLARE project aims to automate fault detection in EV charging stations using Semantic Segmentation and CNN-based Image Classification. By leveraging real-world data, we help identify charger malfunctions faster and improve maintenance response times.
